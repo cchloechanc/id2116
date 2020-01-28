@@ -1,13 +1,14 @@
 body {
-        background-color: #ff6347;
+        background-color: #9C9D74;
       }
       
       h1 {
-        color: black;
+        color: #3C5047;
         text-align: center;
       }
       
       p {
+        color: #3C5047;
         font-family: Georgia;
         font-size: 20px;
       }
