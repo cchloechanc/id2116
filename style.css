@@ -10,7 +10,6 @@
      
       p.intro {
         color: #663F39;
-        font-family: Georgia;
         font-size: 15px;
         text-align: center;
         margin: 25px 100px 25px 100px;
@@ -24,7 +23,6 @@
 
       p {
         color: #663F39;
-        font-family: Georgia;
         font-size: 15px;
         margin: 25px 100px 25px 100px;
       }
