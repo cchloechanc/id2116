@@ -8,15 +8,22 @@
         text-align: center;
       }
      
-      p {
-        color: #B67957;
+      p1 {
+        color: #663F39;
         font-family: Georgia;
         font-size: 15px;
+        text-align: center;
       }
 
       h2 {
-         color: #B67957;
+         color: #663F39;
          font-size: 20px;
+      }
+
+      p2 {
+        color: #663F39;
+        font-family: Georgia;
+        font-size: 15px;
       }
 
     img {
