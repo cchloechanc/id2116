@@ -11,5 +11,17 @@ h1 {
 p {
   color: #A7786F;
   font-family: georgia;
-  font-size: 20px;
+  font-size: 15px;
+}
+
+h2 {
+   color: #A7786F;
+   font-family: georgia;
+   font-size: 20px;
+}
+
+li {
+   color: #A7786F;
+   font-family: georgia;
+   font-size: 15px;
 }
