@@ -35,8 +35,10 @@
       }
 
       li.items {
-                 
-          
+          color: #B67957;
+         font-size: 20px;
+         font-weight: bold;
+         margin: 10px 100px 10px 100px;       
       } 
 
     img.circle {
