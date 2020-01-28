@@ -25,3 +25,7 @@ li {
    font-family: georgia;
    font-size: 15px;
 }
+
+img {
+   border-radius: 50%;
+}
