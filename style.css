@@ -8,7 +8,7 @@
         text-align: center;
       }
      
-      p1 {
+      p {
         color: #663F39;
         font-family: Georgia;
         font-size: 15px;
@@ -18,12 +18,6 @@
       h2 {
          color: #663F39;
          font-size: 20px;
-      }
-
-      p2 {
-        color: #663F39;
-        font-family: Georgia;
-        font-size: 15px;
       }
 
     img {
