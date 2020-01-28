@@ -34,7 +34,7 @@
          margin: 10px 100px 10px 100px;
       }
 
-    img {
+    img.circle {
    border-radius: 50%;
    display: block;
    margin-left: auto;
