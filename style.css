@@ -13,17 +13,26 @@
         font-family: Georgia;
         font-size: 15px;
         text-align: center;
+        margin: 25px 100px 25px 100px;
       }
 
       h2 {
          color: #663F39;
          font-size: 20px;
+         margin: 25px 100px 25px 100px;
       }
 
       p {
         color: #663F39;
         font-family: Georgia;
         font-size: 15px;
+        margin: 25px 100px 25px 100px;
+      }
+
+      li {
+         color: #B67957;
+         font-size: 15px;
+         margin: 0px 100px 0px 100px;
       }
 
     img {
