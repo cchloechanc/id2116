@@ -10,5 +10,16 @@ body {
       p {
         color: #3C5047;
         font-family: Georgia;
-        font-size: 20px;
+        font-size: 15px;
       }
+
+      h2 {
+         color: #3C5047;
+         font-size: 15px;
+      }
+
+      li {
+         color: #3C5047;
+         font-size: 15px;
+      }
+
