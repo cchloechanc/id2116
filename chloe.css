@@ -1,27 +1,27 @@
 
 body {
-  background-color: #E9D6C4;
+  background-color: #B6AAA6;
 }
 
 h1 {
-  color: #A7786F;
+  color: #663F39;
   text-align: center;
 }
 
 p {
-  color: #A7786F;
+  color: #663F39;
   font-family: georgia;
   font-size: 15px;
 }
 
 h2 {
-   color: #A7786F;
+   color: #663F39;
    font-family: georgia;
    font-size: 20px;
 }
 
 li {
-   color: #A7786F;
+   color: #663F39;
    font-family: georgia;
    font-size: 15px;
 }
