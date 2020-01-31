@@ -2,7 +2,6 @@
 let bulbOn;
 let bulbOff;
 let count;
-let slider;
 count = 0;
 
 function setup() {
