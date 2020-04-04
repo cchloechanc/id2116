@@ -1,0 +1,112 @@
+body {
+    background-color: #faf3e4;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto
+}
+
+.base {
+  width: 1600px;
+  height: 870px;
+  position: center;
+}
+
+.text_padding {
+   margin-top: -685px;
+   margin-bottom: 0px;
+   margin-left: 150px;
+   margin-right: 800px;
+   text-align: center;
+   color: #faf3e4;
+}
+
+p.a {
+    font-family: "Herbarium";
+    font-size: 55px;
+    letter-spacing: 1px;
+    color: #faf3e4;
+}
+
+p.b {
+    padding-right: 140px;
+    margin-top: -290px;
+    margin-left: 1000px;
+    text-align: center;
+    line-height: 31px;
+    letter-spacing: 1px;
+    font-family: "Herbarium";
+    font-size: 20px;
+}
+
+.list {
+    padding-right: 100px;
+    padding-left: 87px;
+    margin-top: -25px;
+    margin-left: 20px;
+    text-align: left;
+    line-height: 40px;
+    letter-spacing: 1.5px;
+    font-family: "Herbarium";
+    font-size: 20px;
+}
+
+.name {
+    width: 37%;
+    height:auto;
+    margin-top: -400px;
+    margin-left: 950px;
+    padding-bottom: 100px;
+}
+
+.arrow{
+    width: 18%;
+    height:auto;
+    margin-top: 20px;
+    margin-left: 770px;
+    transform: rotate(10deg);
+}
+
+.button{
+    font-family: "Herbarium";
+    font-size: 20px;
+    color: #faf3e4;
+}
+
+.button_pos{
+    margin-left: 730px;
+    position: relative;
+    top:-70px;
+
+    
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: white;
+  }
+  
+  .hero-text button {
+    border-color: #689399;
+    display: inline-block;
+    padding: 10px 25px;
+    color: white;
+    font-family: "Herbarium" ;
+    font-size: 25px;
+    background-color: #689399;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .hero-text button:hover {
+    background-color: white;
+    color: #689399;
+  }  
